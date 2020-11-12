@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tugastictactoe/static/css/main.3cbc51fa.chunk.css",
+    "main.js": "/tugastictactoe/static/js/main.c25b051d.chunk.js",
+    "main.js.map": "/tugastictactoe/static/js/main.c25b051d.chunk.js.map",
+    "runtime-main.js": "/tugastictactoe/static/js/runtime-main.864639e6.js",
+    "runtime-main.js.map": "/tugastictactoe/static/js/runtime-main.864639e6.js.map",
+    "static/css/2.53bf45ae.chunk.css": "/tugastictactoe/static/css/2.53bf45ae.chunk.css",
+    "static/js/2.bbecb898.chunk.js": "/tugastictactoe/static/js/2.bbecb898.chunk.js",
+    "static/js/2.bbecb898.chunk.js.map": "/tugastictactoe/static/js/2.bbecb898.chunk.js.map",
+    "index.html": "/tugastictactoe/index.html",
+    "static/css/2.53bf45ae.chunk.css.map": "/tugastictactoe/static/css/2.53bf45ae.chunk.css.map",
+    "static/css/main.3cbc51fa.chunk.css.map": "/tugastictactoe/static/css/main.3cbc51fa.chunk.css.map",
+    "static/js/2.bbecb898.chunk.js.LICENSE.txt": "/tugastictactoe/static/js/2.bbecb898.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.864639e6.js",
+    "static/css/2.53bf45ae.chunk.css",
+    "static/js/2.bbecb898.chunk.js",
+    "static/css/main.3cbc51fa.chunk.css",
+    "static/js/main.c25b051d.chunk.js"
+  ]
+}
